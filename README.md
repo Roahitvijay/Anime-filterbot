@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+  <img src="https://t.me/animepirateschannel" alt="Anime-filterbot">
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/LkY2feKT2k0">𝗟𝘂𝗰𝗶𝗳𝗲𝗿𝗠𝗼𝗿𝗶𝗻𝗴𝘀𝘁𝗮𝗿 𝗥𝗼𝗯𝗼𝘁</a>
+  <a href="https://t.me/animepirateschannel">Anime filter bot𝘁</a>
 </p>
 
-<img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
+<img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg" /> <img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg" />
 
 
 
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
-<a href="https://youtu.be/LkY2feKT2k0"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
+<a href="https://t.me/animepirateschannel"><img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg"></a> <img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg">
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
-<a href="https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://t.me/animepirateschannel"> <img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg"/> </a>
 
-### 🔘 <a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/tree/Professor-99/LuciferMoringstar_Robot/modules">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
+### 🔘 <a href="https://github.com/Roahitvijay/Anime-filterbot">𝗔𝗱𝗱𝗲𝗱 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a> 🔘
 
 - [x] IMDB Poster
 - [x] IMDB Rating
@@ -49,7 +49,7 @@
 * `AUTH_USERS`: Username Or Id Of Users To Give Access Of Inline Search. Separate Multiple Users By Space. Leave It Empty If You Don't Want To Restrict Bot Usage.
 * `START_MSG`: Welcome Message For Start Command Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/start_msg)
 * `CUSTOM_FILE_CAPTION` : A Custom Caption For Your Files. Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/file_caption.txt)
-* `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/photo.txt)
+* `PICS`: Telegraph Random Photo Eg [Click Here](https://github.com/Roahitvijay/Anime-filterbot.img)
 * `DEV_NAME` : Developer Name
 * `SPELL_MODE` : Seplling Mode On Or Off
 * `SPELL_MODE_TEXT` : Set Coutom Spelling Mode Text Eg [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/example/spell_check.txt)
