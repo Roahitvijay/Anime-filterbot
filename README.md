@@ -11,7 +11,7 @@
 
 
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
-<a href="https://t.me/animepirateschannel"><img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg"></a> <img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg">
+<a href="https://youtu.be/LkY2feKT2k0"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/-xDQbsF-wek?style=social">
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
 <a href="https://t.me/animepirateschannel"> <img src="https://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg"/> </a>
@@ -32,7 +32,7 @@
 - [x] Custom Caption
 
 ### 🧑‍💻 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 👨‍💻
-<a href="https://heroku.com/deploy?template=https://github.com/bossstory/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Deploy-To-Heroku.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/bossstory/LuciferMoringstar-Robot"><img src="hhttps://i.pinimg.com/236x/78/4f/76/784f76e8a948fe7b27ba55f2af8a6b54.jpg" alt="Roahitvijay" border="0" height="125" width="200" align="center" /></a>
 
 
 ### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
