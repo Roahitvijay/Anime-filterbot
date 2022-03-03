@@ -1,7 +1,7 @@
 {
-    "name": "LuciferMoringstar_Robot",
+    "name": "Anime-filterbot",
     "description": "Super Fast Telegram Auto Filter Bot",
-    "logo": "https://telegra.ph/file/4b5095e9ce77a82e56a45.jpg",
+    "logo": "https://telegra.ph/file/7d23ca06e1a36a18cd85f.jpg",
     "stack": "container",
     "keywords": [
       "best",
@@ -10,8 +10,8 @@
       "filter",
       "bot"
     ],
-    "website": "https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA",
-    "repository": "https://github.com/bossstory/LuciferMoringstar-Robot",
+    "website": "https://t.me/animepirateschannel",
+    "repository": "https://github.com/Roahitvijay/Anime-filterbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From BOT FATHER",
@@ -78,12 +78,12 @@
         },
         "DEV_NAME": {
             "description": "Creator Name or Username ",
-            "value": "HOWTODO",
+            "value": "R0ahit",
             "required": true
         },
         "SUPPORT": {
             "description": "Your Group Link Private or Public Link (with t.me or https://t.me)",
-            "value": "https://t.me/HTDGROUPFORMOVIES",
+            "value": "https://t.me/Animechannel90",
             "required": true
         }
     },
